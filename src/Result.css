@@ -1,0 +1,17 @@
+.op {
+    font-size: 15px;
+}
+
+.result {
+    margin-top: 50px;
+}
+
+.lastResult {
+    font-size: 40px;
+    color: rgb(114, 27, 27);
+}
+
+
+.listItem {
+    list-style-type: none;
+}
